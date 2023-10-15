@@ -1,2 +1,2 @@
-# autofiller
+# Autofiller
 Auto-fill Job Applications
